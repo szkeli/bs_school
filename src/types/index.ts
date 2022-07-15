@@ -1,0 +1,7 @@
+export * from './authen-body'
+export * from './authen-info'
+export * from './gender'
+export * from './login-body'
+export * from './school'
+export * from './service'
+export * from './student'

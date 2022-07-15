@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+NODE_ENV=production /var/lang/node12/bin/node dist/main.js
